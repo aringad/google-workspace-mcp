@@ -317,7 +317,7 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 ## 👨‍💻 Author
 
-Developed by **[Mediaform s.c.r.l.](https://www.mediafrm.com)** — Genova, Italy
+Developed by **[Mediaform s.c.r.l.](https://www.media-form.it)** — Genova, Italy
 
 ---
 
