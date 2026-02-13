@@ -1,5 +1,7 @@
 # 🔧 Google Workspace MCP Server
 
+<!-- mcp-name: io.github.aringad/google-workspace-mcp -->
+
 🇮🇹 Italiano | [🇬🇧 English](#english)
 
 ---
@@ -34,13 +36,14 @@ Server MCP (Model Context Protocol) per gestire **Google Workspace** tramite Cla
 ### 🚀 Installazione
 
 ```bash
+pip install google-workspace-mcp
+```
+
+Oppure da sorgente:
+
+```bash
 git clone https://github.com/aringad/google-workspace-mcp.git
 cd google-workspace-mcp
-
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# oppure: venv\Scripts\activate  # Windows
-
 pip install -r requirements.txt
 ```
 
@@ -202,13 +205,14 @@ MCP (Model Context Protocol) Server to integrate **Google Workspace Admin** with
 ### 🚀 Installation
 
 ```bash
+pip install google-workspace-mcp
+```
+
+Or from source:
+
+```bash
 git clone https://github.com/aringad/google-workspace-mcp.git
 cd google-workspace-mcp
-
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# or: venv\Scripts\activate  # Windows
-
 pip install -r requirements.txt
 ```
 
